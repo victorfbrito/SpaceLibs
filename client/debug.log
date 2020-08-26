@@ -1,0 +1,32 @@
+[0805/180301.671:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0805/180301.696:ERROR:exception_snapshot_win.cc(98)] thread ID 12484 not found in process
+[0805/180301.671:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0805/180301.696:ERROR:exception_snapshot_win.cc(98)] thread ID 24396 not found in process
+[0805/180301.671:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0805/180301.697:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[0805/180301.697:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[0805/180301.697:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[0805/180301.697:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[0805/180301.697:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[0805/180301.697:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[0805/180301.699:ERROR:exception_snapshot_win.cc(98)] thread ID 32600 not found in process
+[0805/180301.705:ERROR:process_info.cc(329)] VirtualQueryEx: Acesso negado. (0x5)
+[0805/180301.705:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0805/180301.705:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[0805/180301.708:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0805/180301.708:ERROR:exception_snapshot_win.cc(98)] thread ID 9568 not found in process
+[0805/180301.708:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0805/180301.708:ERROR:exception_snapshot_win.cc(98)] thread ID 2324 not found in process
+[0805/180301.708:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[0805/180301.708:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[0805/180301.730:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0805/180301.730:ERROR:exception_snapshot_win.cc(98)] thread ID 22208 not found in process
+[0805/180301.734:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0805/180301.735:ERROR:exception_snapshot_win.cc(98)] thread ID 9300 not found in process
+[0805/180301.747:ERROR:process_info.cc(329)] VirtualQueryEx: Acesso negado. (0x5)
+[0805/180301.747:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0805/180301.747:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[0805/180301.761:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0805/180301.761:ERROR:exception_snapshot_win.cc(98)] thread ID 28920 not found in process
+[0809/180451.414:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0809/180451.510:ERROR:exception_snapshot_win.cc(98)] thread ID 32272 not found in process

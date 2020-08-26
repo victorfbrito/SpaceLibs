@@ -1,0 +1,18 @@
+.What_youre_looking_for {
+  background: #000000;
+  opacity: 0.8;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 5;
+  top: 0;
+  img {
+    height: 400px;
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translate(-200px, 100px);
+    z-index: 5;
+  }
+}

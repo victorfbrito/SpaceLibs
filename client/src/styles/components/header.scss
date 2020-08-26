@@ -1,0 +1,20 @@
+.header-main {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 50px;
+  z-index: 2;
+  opacity: 1;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  text-transform: uppercase;
+  padding: 10px 0;
+  margin-bottom: 10px;
+}
+
+.header-div-relative {
+  height: 60px;
+  width: 100%;
+}

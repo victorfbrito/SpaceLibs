@@ -1,0 +1,31 @@
+button {
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 14px;
+  border: 0;
+  color: #fff;
+  background: #273a60;
+  margin-top: 5px;
+}
+button:hover {
+  background: #232626;
+}
+
+.result {
+  background: transparent;
+  float: right;
+  font-size: 20px;
+  margin: 0 10px 10px 10px;
+  padding: 15px 10px;
+  height: 25px;
+  &:first-of-type {
+    color: red;
+  }
+  &:nth-of-type(2) {
+    color: green;
+  }
+}

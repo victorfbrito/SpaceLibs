@@ -1,0 +1,205 @@
+.home-main {
+  min-height: 500px;
+  margin: 10px;
+}
+
+.list-wrapper {
+  height: 100%;
+  //display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  .innerheader {
+    font-weight: bold;
+    display: flex;
+    width: 1110px;
+    text-align: center;
+    height: 40px;
+    .btn.btn-outline-light.btn-sm {
+      margin-left: 10px;
+      margin-top: 0;
+      height: 40px;
+    }
+    strong {
+      margin-left: 10px;
+      float: left;
+    }
+    p {
+      margin-right: 10px;
+      padding-top: 10px;
+      float: right;
+    }
+    p:last-of-type {
+      margin-left: 755px;
+    }
+    a {
+      float: left;
+      margin-left: 10px;
+      padding-top: 8px;
+    }
+  }
+  .rollpage {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    a {
+      margin-right: 35px;
+      margin-left: 20px;
+      //margin-right: 50px;
+      //margin-top: 20px;
+      height: 20px;
+      width: 20px;
+    }
+  }
+  .list {
+    display: flex;
+    height: 370px;
+    flex-direction: column;
+    width: 100%;
+    padding: 10px 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+
+    .row {
+      overflow-y: scroll;
+      scrollbar-width: thin;
+      height: 330px;
+    }
+
+    .btn.btn-outline-light.btn-lg {
+      float: left;
+      margin-left: 10px;
+      margin-bottom: 10px;
+      height: 50px;
+      width: 290px;
+      text-transform: uppercase;
+    }
+    ul {
+      float: center;
+      height: 300px;
+
+      li {
+        display: inline;
+        button {
+          padding-bottom: 38px;
+          margin: 5px;
+          width: 290px;
+          height: 40px;
+        }
+      }
+    }
+  }
+}
+
+.CreateContainer {
+  border-radius: 10px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  left: 50%;
+  transform: translate(-300px, 10px);
+  z-index: 5;
+  color: black;
+  form {
+    display: flex;
+    flex-direction: column;
+    height: 480px;
+    width: 650px;
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px 20px 5px 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+
+    .Buttons {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      margin: auto;
+      height: 0px;
+      margin-top: 10px;
+    }
+
+    .line {
+      display: flex;
+      flex-direction: row;
+      margin-bottom: 20px;
+      align-items: center;
+      margin-left: auto;
+      margin-right: 20px;
+      margin-top: 0;
+      margin-bottom: 10px;
+      margin-bottom: 0;
+      //float: right;
+      p {
+        margin-right: 10px;
+        width: 100px;
+      }
+      .title {
+        width: auto;
+      }
+      input {
+        padding: 10px;
+      }
+      img {
+        height: 80px;
+        padding-bottom: 20px;
+        margin-right: 20px;
+      }
+    }
+    .radio {
+      p {
+        width: 65px;
+      }
+      .radios {
+        height: 20px;
+        margin-right: 70px;
+        margin-bottom: 15px;
+        input {
+          height: 14px;
+          margin-right: 5px;
+        }
+        label {
+          margin-right: 30px;
+        }
+      }
+    }
+    .name {
+      margin-right: 70px;
+      p {
+        padding-right: 0px;
+        width: 65px;
+      }
+      input {
+        width: 380px;
+      }
+    }
+    .upload {
+      margin-right: 70px;
+      input {
+        width: 380px;
+      }
+    }
+    .desc {
+      margin-right: 70px;
+      p {
+        position: relative;
+        top: -60px;
+      }
+      textarea {
+        width: 380px;
+        height: 150px;
+      }
+    }
+    .Buttons {
+      button {
+        width: 100px;
+      }
+      button:last-of-type {
+        margin-left: 410px;
+      }
+    }
+  }
+}
